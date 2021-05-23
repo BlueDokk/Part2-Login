@@ -58,3 +58,8 @@ width: 10px;
 .muted{
   color: #6c757d;
 }
+@media screen and (min-width:1200px){
+  .form{
+    width:30%;
+  }
+}
